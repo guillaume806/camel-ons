@@ -1,0 +1,13 @@
+@media (min-width: 900px) {
+
+  .main-content__right{
+      margin-left: 32px;
+      width: calc(900px - 632px - 32px);
+  }
+
+    
+  .main-content {
+      flex-direction: row;
+  }
+
+} 
